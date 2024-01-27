@@ -1,19 +1,16 @@
 [
     {
-        "name": "Kumar Pallav",
-        "website": "http://kumarpallav.com",
-        "email": "me@kumarpallav.com",
-        "email2": "pforpallav@gmail.com",
-        "phone": "+1-xxx-xxx-xxxx",
-        "linkedin":"https://www.linkedin.com/in/kumar-pallav-156a1657/",
+        "name": "Pk Patel",
+        "website": "http://pkpatel.com",
+        "email": "parthpatel9414@gmail.com",
+        "email2": "pkpatel9414@gmail.com",
+        "phone": "+1-226-505-2546",
+        "linkedin":"https://www.linkedin.com/in/parth-patel-9p4a1r/",
         "facebook":"https://www.facebook.com/pforpallav",
-        "github":"https://github.com/pforpallav",
+        "github":"https://github.com/The5cheduler",
         "languages": [
             {
-                "language": "C++"
-            },
-            {
-                "language": "C\\#"
+                "language": "Python"
             },
             {
                 "language": "JavaScript"
@@ -22,7 +19,16 @@
                 "language": "Java"
             },
             {
-                "language": "C"
+                "language": "Java"
+            },
+            {
+                "language": "SQL"
+            },
+            {
+                "language": "Shell"
+            },
+            {
+                "language": "HTML/CSS"
             }
         ],
         "technologies": [
@@ -30,11 +36,35 @@
                 "technology": "NodeJs"
             },
             {
-                "technology": "UWP"
+                "technology": "React"
             },
             {
-                "technology": "Win32"
-            }
+                "technology": "Express"
+            },
+            {
+                "technology": "REST API"
+            },
+            {
+                "technology": "Fast API"
+            },
+            {
+                "technology": "Flask"
+            },
+            {
+                "technology": "NumPy"
+            },
+            {
+                "technology": "PySpark"
+            },
+            {
+                "technology": "Pandas"
+            },
+            {
+                "technology": "Polar"
+            },
+            {
+                "technology": "PySpark"
+            },
         ]
     }
 ]
